@@ -1,0 +1,2 @@
+current_dir=(pwd)
+echo "Asolute path of the current working directory: current_dir"
