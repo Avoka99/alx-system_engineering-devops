@@ -1,2 +1,4 @@
-current_dir=(realpath .)
-echo "current_dir"
+
+  #!/bin/bash
+
+ realpath .
