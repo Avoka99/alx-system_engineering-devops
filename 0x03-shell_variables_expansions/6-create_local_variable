@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "BEST=School" | source /dev/stdin
+BEST="School"
